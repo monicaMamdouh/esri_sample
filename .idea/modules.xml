@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/esri.iml" filepath="$PROJECT_DIR$/esri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myesri.iml" filepath="$PROJECT_DIR$/myesri.iml" />
     </modules>
   </component>
 </project>
